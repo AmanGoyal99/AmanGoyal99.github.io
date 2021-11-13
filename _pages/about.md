@@ -24,6 +24,6 @@ My Affilations
 	</center>
 </div>
 
-<center>
+<!-- <center>
   Visitor Count
-  <a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="88960447b67bad7b3228ba6a44cccfc3|5|ip|356|rgb(255, 255, 255);|rgb(255, 54, 54);|small|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
+  <a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="88960447b67bad7b3228ba6a44cccfc3|5|ip|356|rgb(255, 255, 255);|rgb(255, 54, 54);|small|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script> -->
