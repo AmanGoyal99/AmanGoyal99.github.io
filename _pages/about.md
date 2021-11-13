@@ -18,9 +18,9 @@ My Affilations
 
 <div>
 	<center>
-    <img width="220" src="./images/cmu-logo.png">    
-    <img width="240" src="./images/IIIT.png">      
-    <img width="200" src="./images/Michigan-State-University-logo.jpg">
+    <img width="220" src="/AmanGoyal99.github.io/tree/master/images/cmu-logo.png">    
+    <img width="240" src="/AmanGoyal99.github.io/tree/master/images/IIIT.png">      
+    <img width="200" src="/AmanGoyal99.github.io/tree/master/images/Michigan-State-University-logo.jpg">
 	</center>
 </div>
 
