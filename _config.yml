@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aman Goyal"
-  avatar           : "/images/me.jpg"
+  avatar           : "me.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
