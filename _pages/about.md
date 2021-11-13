@@ -16,3 +16,11 @@ I was in the Mobility team and had developed road monitoring solutions such as d
 My Affilations
 ======
 
+<div>
+	<center>
+    <img width="220" src="./images/cmu-logo.png">    
+    <img width="240" src="./images/IIIT.png">      
+    <img width="200" src="./images/Michigan-State-University-logo.jpg">
+	</center>
+</div>
+
