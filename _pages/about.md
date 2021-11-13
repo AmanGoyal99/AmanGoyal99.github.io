@@ -19,8 +19,8 @@ My Affilations
 <div>
 	<center>
     <img width="220" src="./images/CMU_logo_white_bg.jpg">    
-    <img width="240" src="./images/IIIT.png">      
     <img width="200" src="./images/Michigan-State-University-logo.jpg">
+    <img width="240" src="./images/IIIT.png">     
 	</center>
 </div>
 
