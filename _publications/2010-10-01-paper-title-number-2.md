@@ -1,7 +1,7 @@
 ---
 title: "Identifying Motorcycle Violations on Unconstrained Roads with Curriculum Learning, Occlusion Regressor, and Trapezium Regressor"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+<!-- permalink: /publication/2010-10-01-paper-title-number-2 -->
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-20-11
 venue: 'Top Tier Conference (Level : A1)'
