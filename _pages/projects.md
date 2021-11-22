@@ -1,10 +1,10 @@
 ---
-layout: archive
-title: "Projects"
-permalink: /projects/
+title: ""
+excerpt: "Projects"
 author_profile: true
+permalink: /projects/
 redirect_from:
-  - /resume
+  - /projects/
 ---
 
 {% include base_path %}
