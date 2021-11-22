@@ -1,10 +1,10 @@
 ---
-title: ""
-excerpt: "Projects"
-author_profile: true
+layout: archive
+title: "Projects"
 permalink: /projects/
+author_profile: true
 redirect_from:
-  - /projects/
+  - /resume
 ---
 
 {% include base_path %}
