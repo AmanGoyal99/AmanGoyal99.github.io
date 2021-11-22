@@ -1,4 +1,5 @@
-title: ""
+---
+title: "Projects"
 excerpt: "Projects"
 author_profile: true
 permalink: /projects/
