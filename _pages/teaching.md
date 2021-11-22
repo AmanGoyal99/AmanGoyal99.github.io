@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Teaching Assistanship in Machine Learning (CSPC41)
+======
 
 Course Instructor : [Prof. R.K. Aggarwal](http://www.nitkkr.ac.in/comp_faculty_details.php?idd=57)
 
@@ -17,8 +18,8 @@ Responsibilities-
 * Taught several machine learning concepts to 240 students during the semester as part of the course content. 
 * Held various lab sessions and prepared assignments for them.
 
-
 Google AI Explore ML Facilitator
+======
 
 *August 2019 - December 2019*
 
@@ -27,6 +28,7 @@ Responsibilities-
 * Held various hands-on sessions for deep learning concepts such as Transfer Learning, Autonencoders and Image Captioning. 
 
 Computer Vision Webinars
+======
 
 *March 2020 - May 2020*
 
