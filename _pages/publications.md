@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
-1.  *RIM: Reliable Influence-based Active Learning on Graphs* <br>
-**Wentao Zhang**, Yexin Wang, Zhenbang You, Meng Cao, Ping Huang, Jiulong Shan, Zhi Yang, Bin Cui.<br>
-Thirty-fifth Conference on Neural Information Processing Systems.<br>
-***NeurIPS 2021, CCF-A, <font color=orange>Spotlight Presentation, Acceptance Rate: < 3%</font>***. 
+1.  *PC2L: PCA Continual Learning* <br>
+Sima Behpour, Pooya Behpour,**Aman Goyal**, Richard Kang and Min Xu..<br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, New Orleans, Louisiana.<br>
+Status: **Under Review**. 
 
 1.  *Node Dependent Local Smoothing for Scalable Graph Learning* <br>
 **Wentao Zhang**, Mingyu Yang, Zeang Sheng, Yang Li, Wen Ouyang, Yangyu Tao, Zhi Yang, Bin Cui.<br>
