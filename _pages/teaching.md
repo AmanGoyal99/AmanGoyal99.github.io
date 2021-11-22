@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience --"
+title: "Teaching"
 excerpt: "Teaching experience/assistanships"
 author_profile: true
 permalink: /teaching/
