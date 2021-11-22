@@ -15,7 +15,7 @@ Intrusion Detection in Low-Light scenarios
 - The motivation behind this solution was to enhance the security of the borders using AI given the rise in terrorism.
 
 <p align="center">
-<img src = "/images/final_output.gif" width="80%">
+<img src = "/images/final_output.gif" width="90%">
 </p>
 
 - Low-light images were processed using stacking and averaging techniques. 
