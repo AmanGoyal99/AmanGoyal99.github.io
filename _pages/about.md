@@ -13,7 +13,7 @@ I am currently working as a research intern at XuLab, Carnegie Mellon University
 Apart from this, Previously, I had worked as an Applied Research Fellow at Computer Vision Lab, IIIT Hyderabad under the guidance of Prof. Ravi Kiran, Dr. Anbumani Subramaniam and Prof. C.V.Jawahar 
 I was in the Mobility team and had developed road monitoring solutions such as detection of helmetless violations and triple rider detection by 2 wheelers on Indian roads.
 
-My Affilations
+Notable Affilations
 ======
 
 <div>
