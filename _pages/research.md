@@ -7,7 +7,7 @@ redirect_from:
   - /tags/
 ---
 
-# Continual Learning at XuLab, Carnegie Mellon University 
+### Continual Learning at XuLab, Carnegie Mellon University 
 Mentors : [Prof. Min Xu](https://xulabs.github.io/min-xu/) and [Dr. Sima Behpour](https://scholar.google.com/citations?user=7bmIRwUAAAAJ&hl=en) 
 
 _June 2021 - November 2021
@@ -19,7 +19,7 @@ _June 2021 - November 2021
 Continual Learning is perhaps one of the most important areas when it comes to deep learning. This is mainly because, achieving it with minimal catastrophic forgetting could help neural networks not just learn various classes more effectively but it could also put the AI community one step closer in the pursuit of _Artificial General Intelligence_. I had recently worked on a project based on it at the [Xulab](https://xulabs.github.io/), CMU where upon collaboration with [Prof. Min Xu](https://xulabs.github.io/min-xu/) and [Dr. Sima Behpour](https://scholar.google.com/citations?user=7bmIRwUAAAAJ&hl=en), we had submitted our work recently at a top tier conference.
 
 
-# Pruning of Tracking and Detection models for Autonomous Vehicles at Optimization and Trustworthy ML Group, Michigan State University
+### Pruning of Tracking and Detection models for Autonomous Vehicles at Optimization and Trustworthy ML Group, Michigan State University
 Mentors : [Prof. Sijia Liu](https://lsjxjtu.github.io/index.html)
 
 _September 2021 - Present_
