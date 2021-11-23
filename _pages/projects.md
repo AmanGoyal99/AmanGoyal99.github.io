@@ -30,7 +30,7 @@ Vehicle Parking Occupancy Detection
 - A parking occupancy status detection solution which utilizes classical computer vision concepts such as _Canny Edge Detection_ and deep learning based object detection model _YoloV3', 
 
 <p align="center">
-<img src="/images/parking-occupancy-detection.jpg" height = "93%" width="93%">
+<img src="/images/parking-occupancy-detection.jpg" height = "83%" width="93%">
 </p>
 
 The following procedure was followed to derive the solution:
