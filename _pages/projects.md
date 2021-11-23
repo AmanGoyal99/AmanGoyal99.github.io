@@ -23,54 +23,68 @@ Intrusion Detection in Low-Light scenarios
 - *HRNet* was utilized for intruder pose estimation
 - *Viola-Jones* algorithm was used for intruder face recognition.
 
+The implementation can be found [here]()
+
 Vehicle Parking Occupancy Detection
 ------
-- A parking occupancy status detection solution
+- A parking occupancy status detection solution which utilizes classical computer vision concepts such as _Canny Edge Detection_ and deep learning based object detection model _YoloV3', 
 
 <p align="center">
-<img src="/images/parking-occupancy-detection.jpg" height = 93% width="93%">
+<img src="/images/parking-occupancy-detection.jpg" height = "93%" width="93%">
 </p>
 
-MindWare is developed by <a href="http://net.pku.edu.cn/~cuibin/" target="_blank" rel="nofollow">DAIR Lab</a> at Peking University.
-The goal of MindWare is to make machine learning easier to apply both in industry and academia.
+The following procedure was followed to derive the solution:
+
+- Suitable images were found using Open IP CCTV camera websites. 
+- Parking zones were detected using _Canny Edge Detection_ and _Hough Line Transform_.
+- Detection of vehicles took place using _YoloV3_ model.
+- Vehicles were represented as point objects on the 2D map using _homography estimation_.
+- Finally the status of the parking zone was detected using _Point Polygon Test_.
+
+The detailed procedure can be found in this [blog](https://nayan.co/blog/AI/Vehicle-Parking-Occupancy-Detection/)
 
 Deep Learning based COVID-19 classifier
 ------
-[OpenBox](https://open-box.readthedocs.io/en/latest) is an efficient open-source system designed for solving generalized black-box optimization (BBO) problems.
+
+- COVID-19 is one of the most destructive pandemic humankind has ever faced. 
+- It has not only shaken the economy across the world but also made it an extremely difficult task for effective medical help to reach across remote regions. 
+- An extremely accurate and lightweight AI model could be a solution for this as it could aid the doctors and medical team especially in remote areas to detect COVID-19.
+
+Hence keeping this in mind, this project aims to create a deep learning based COVID-19 CT-Scan images classifier.
+
 <p align="center">
 <img src="/images/covid-19-classifier.png" width="93%">
 </p>
-It owns the following characteristics:
-1. BBO with multiple objectives and constraints.
-2. BBO with transfer learning.
-3. BBO with distributed parallelization.
-4. BBO with multi-fidelity acceleration.
-5. BBO with early stops.
+
+- In the project, experiments have been done both with as well as without transfer learning.
+- With just 50 training images, _MobileNet_ based model was able to provide an accuracy of 99%.
+
+The implementation can be found [here]()
 
 Image Denoising with Autoencoders
 ------
-[OpenBox](https://open-box.readthedocs.io/en/latest) is an efficient open-source system designed for solving generalized black-box optimization (BBO) problems.
+This project aims to perform denoising of images from [Olivetti Faces Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_olivetti_faces.html) by using _Convolutional Autoencoders_.
+
 <p align="center">
 <img src="/images/Autoencoders.png" width="93%">
 </p>
-It owns the following characteristics:
-1. BBO with multiple objectives and constraints.
-2. BBO with transfer learning.
-3. BBO with distributed parallelization.
-4. BBO with multi-fidelity acceleration.
-5. BBO with early stops.
+
+- The images were provided random noise using basic python code.
+- The best results were obtained when the architecture was trained using 1000 epochs.
+- The above image is an example of evaluation done on testing set.
+
+The implementation can be found [here]()
 
 QuickDraw - Image Recognition
 ------
-[OpenBox](https://open-box.readthedocs.io/en/latest) is an efficient open-source system designed for solving generalized black-box optimization (BBO) problems.
+This project was inspired by Google's [QuickDraw]() and aims to recognize images across 15 categories
+
 <p align="center">
 <img src="/images/quickdraw.jpeg" width="93%">
 </p>
-It owns the following characteristics:
-1. BBO with multiple objectives and constraints.
-2. BBO with transfer learning.
-3. BBO with distributed parallelization.
-4. BBO with multi-fidelity acceleration.
-5. BBO with early stops.
+
+- It is a _CNN_ based image classifier which classifies images across 15 categories.
+
+The implementation can be found [here]()
 
 
