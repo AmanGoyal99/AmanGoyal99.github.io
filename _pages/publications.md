@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 1.  *PC2L: PCA Continual Learning* <br>
 Sima Behpour, Pooya Behpour, **Aman Goyal**, Richard Kang, Min Xu.<br>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, New Orleans, Louisiana.<br>
+Top Tier Conference (Level: A1).<br>
 Status: **Under Review**.
 
 1.  *Identifying Motorcycle Violations on Unconstrained Roads with Curriculum Learning, Occlusion Regressor, and Trapezium Regressor* <br>
