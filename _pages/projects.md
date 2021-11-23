@@ -23,14 +23,14 @@ Intrusion Detection in Low-Light scenarios
 - *HRNet* was utilized for intruder pose estimation
 - *Viola-Jones* algorithm was used for intruder face recognition.
 
-The implementation can be found [here](https://github.com/AmanGoyal99/Low-light-intrusion-detection)
+The implementation can be found [here](https://github.com/AmanGoyal99/Low-light-intrusion-detection).
 
 Vehicle Parking Occupancy Detection
 ------
 - A parking occupancy status detection solution which utilizes classical computer vision concepts such as _Canny Edge Detection_ and deep learning based object detection model _YoloV3', 
 
 <p align="center">
-<img src="/images/parking-occupancy-detection.jpg" height = "83%" width="93%">
+<img src="/images/parking-occupancy-detection.jpg" height = "63%" width="93%">
 </p>
 
 The following procedure was followed to derive the solution:
@@ -41,7 +41,7 @@ The following procedure was followed to derive the solution:
 - Vehicles were represented as point objects on the 2D map using _homography estimation_.
 - Finally the status of the parking zone was detected using _Point Polygon Test_.
 
-The detailed procedure can be found in this [blog](https://nayan.co/blog/AI/Vehicle-Parking-Occupancy-Detection/)
+The detailed procedure can be found in this [blog](https://nayan.co/blog/AI/Vehicle-Parking-Occupancy-Detection/).
 
 Deep Learning based COVID-19 classifier
 ------
@@ -59,7 +59,7 @@ Hence keeping this in mind, this project aims to create a deep learning based CO
 - In the project, experiments have been done both with as well as without transfer learning.
 - With just 50 training images, _MobileNet_ based model was able to provide an accuracy of 99%.
 
-The implementation can be found [here](https://github.com/AmanGoyal99/COVID-19-Classifier)
+The implementation can be found [here](https://github.com/AmanGoyal99/COVID-19-Classifier).
 
 Image Denoising with Autoencoders
 ------
@@ -73,18 +73,18 @@ This project aims to perform denoising of images from [Olivetti Faces Dataset](h
 - The best results were obtained when the architecture was trained using 1000 epochs.
 - The above image is an example of evaluation done on testing set.
 
-The implementation can be found [here](https://github.com/AmanGoyal99/Denoising-Images-with-Autoencoders)
+The implementation can be found [here](https://github.com/AmanGoyal99/Denoising-Images-with-Autoencoders).
 
 QuickDraw - Image Recognition
 ------
 This project was inspired by Google's [QuickDraw](https://quickdraw.withgoogle.com/) and aims to recognize images across 15 categories
 
 <p align="center">
-<img src="/images/quickdraw.jpeg" width="93%">
+<img src="/images/quickdraw.jpeg" height = "63%" width="93%">
 </p>
 
 - It is a _CNN_ based image classifier which classifies images across 15 categories.
 
-The implementation can be found [here](https://github.com/AmanGoyal99/QuickDraw)
+The implementation can be found [here](https://github.com/AmanGoyal99/QuickDraw).
 
 
