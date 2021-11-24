@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 Hey there ! Thanks for visiting my page. I have recently completed my undergraduate studies in Computer Science from NIT Kurukshetra. I am a Deep Learning and Computer Vision Researcher as well. My research interests revolve around Surveillance and Autonomous Vehicles. 
-I am currently working as a research intern at XuLab, Carnegie Mellon University. My current projects are based on the domains of 'Continual Learning' and 'Cryo-ET data analysis'. I am working under the guidance of Prof. Min Xu and Dr. Sima Behpour respectively for the above projects mentioned. 
-Apart from this, Previously, I had worked as an Applied Research Fellow at Computer Vision Lab, IIIT Hyderabad under the guidance of Prof. Ravi Kiran, Dr. Anbumani Subramaniam and Prof. C.V.Jawahar 
-I was in the Mobility team and had developed road monitoring solutions such as detection of helmetless violations and triple rider detection by 2 wheelers on Indian roads.
+I am currently working as a research intern at [Optimization and Trustworthy ML Group](https://lsjxjtu.github.io/), Michigan State Universit where I am working on pruning of tracking and detection models for autonomous vehicles. 
+I am currently working as a research intern at [XuLab](https://xulabs.github.io/), Carnegie Mellon University. My current projects are based on the domains of 'Continual Learning' and 'Cryo-ET data analysis'. I am working under the guidance of [Prof. Min Xu](https://xulabs.github.io/min-xu/) and [Dr. Sima Behpour](https://scholar.google.com/citations?user=7bmIRwUAAAAJ&hl=en) respectively for the above projects mentioned. 
 
 Notable Affilations
 ======
