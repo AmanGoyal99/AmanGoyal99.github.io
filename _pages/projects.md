@@ -80,7 +80,7 @@ QuickDraw - Image Recognition
 This project was inspired by Google's [QuickDraw](https://quickdraw.withgoogle.com/) and aims to recognize images across 15 categories
 
 <p align="center">
-<img src="/images/quickdraw.jpeg" width="93%" height = "23%">
+<img src="/images/quickdraw_resized.jpeg" width="93%" height = "23%">
 </p>
 
 - It is a _CNN_ based image classifier which classifies images across 15 categories.
