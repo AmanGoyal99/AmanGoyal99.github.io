@@ -30,7 +30,7 @@ Vehicle Parking Occupancy Detection
 - A parking occupancy status detection solution which utilizes classical computer vision concepts such as _Canny Edge Detection_ and deep learning based object detection model _YoloV3', 
 
 <p align="center">
-<img src="/images/parking-occupancy-detection.jpg" height = "63%" width="93%">
+<img src="/images/parking-occupancy-detection.jpg" width="93%" height = "63%">
 </p>
 
 The following procedure was followed to derive the solution:
@@ -53,7 +53,7 @@ Deep Learning based COVID-19 classifier
 Hence keeping this in mind, this project aims to create a deep learning based COVID-19 CT-Scan images classifier.
 
 <p align="center">
-<img src="/images/covid-19-classifier.png" width="93%">
+<img src="/images/covid-19-classifier.png" width="93%" height = "63%">
 </p>
 
 - In the project, experiments have been done both with as well as without transfer learning.
@@ -80,7 +80,7 @@ QuickDraw - Image Recognition
 This project was inspired by Google's [QuickDraw](https://quickdraw.withgoogle.com/) and aims to recognize images across 15 categories
 
 <p align="center">
-<img src="/images/quickdraw.jpeg" height = "63%" width="93%">
+<img src="/images/quickdraw.jpeg" width="93%" height = "63%">
 </p>
 
 - It is a _CNN_ based image classifier which classifies images across 15 categories.
