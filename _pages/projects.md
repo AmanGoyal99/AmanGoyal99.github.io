@@ -30,7 +30,7 @@ Vehicle Parking Occupancy Detection
 - A parking occupancy status detection solution which utilizes classical computer vision concepts such as _Canny Edge Detection_ and deep learning based object detection model _YoloV3', 
 
 <p align="center">
-<img src="/images/parking-occupancy-detection_resized.jpg" width="93%" height = "63%">
+<img src="/images/parking-occupancy-detection_resized.jpg" width="93%">
 </p>
 
 The following procedure was followed to derive the solution:
@@ -80,7 +80,7 @@ QuickDraw - Image Recognition
 This project was inspired by Google's [QuickDraw](https://quickdraw.withgoogle.com/) and aims to recognize images across 15 categories
 
 <p align="center">
-<img src="/images/quickdraw_resized.jpeg" width="93%" height = "23%">
+<img src="/images/quickdraw_resized.jpeg" width="93%">
 </p>
 
 - It is a _CNN_ based image classifier which classifies images across 15 categories.
