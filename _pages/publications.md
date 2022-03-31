@@ -10,10 +10,10 @@ Sima Behpour, Pooya Behpour, **Aman Goyal**, Richard Kang, Min Xu.<br>
 Top Tier Conference (Level: A1).<br>
 Status: **Under Review**.
 
-1.  *Identifying Motorcycle Violations on Unconstrained Roads with Curriculum Learning, Occlusion Regressor, and Trapezium Regressor* <br>
-**Aman Goyal**, Dev Agarwal, Ravi Kiran, Rohit Saluja, C. V. Jawahar.<br>
-Top Tier Conference (Level: A1).<br>
-Status: **Under Review**. 
+1.  *Detecting, Tracking and Counting Motorcycle Rider Traffic Violations on Unconstrained Roads* <br>
+**Aman Goyal**, Dev Agarwal, Anbumani Subramanian, C. V. Jawahar, Ravi Kiran, Rohit Saluja.<br>
+CVPR Workshop (UG2+ challenge).<br>
+Status: **Accepted**. 
 
 1.  *Multimodal Emotion Recognition in Polish* <br>
 Kritika Rupaulhia, **Aman Goyal**, Aman Saini, Akshay Shukla, Sridhar Swaminathan.<br>
