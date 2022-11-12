@@ -19,7 +19,7 @@ Status: [**Published**](https://ieeexplore.ieee.org/document/9232578).
 
 1.  *PC2L: PCA Continual Learning* <br>
 Sima Behpour, Pooya Behpour, **Aman Goyal**, Richard Kang, Min Xu.<br>
-Top Tier Conference (Level: A1).<br>
+CVPR 2023.<br>
 Status: **Under Review**.
 
 
