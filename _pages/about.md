@@ -20,7 +20,7 @@ Notable Affilations
 	<center>
     <img width="200" src="./images/7dPeX1gK_400x400.png">
     <img width="220" src="./images/CMU_logo_white_bg.jpg">    
-    <img width="200" src="./images/Michigan-State-University-logo.jpg">
+    <img width="220" src="./images/Michigan-State-University-logo.jpg">
     <img width="240" src="./images/IIIT.png">     
 	</center>
 </div>
