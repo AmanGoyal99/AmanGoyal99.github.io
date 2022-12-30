@@ -10,7 +10,7 @@ redirect_from:
 ## Continual Learning at XuLab, Carnegie Mellon University 
 Mentors : [Prof. Min Xu](https://xulabs.github.io/min-xu/), [Dr. Sima Behpour](https://scholar.google.com/citations?user=7bmIRwUAAAAJ&hl=en) 
 
-_June 2021 - November 2021_
+_June 2021 - February 2022_
 
 <!-- [//]: # (Primarily, I have been jointly working on curating the novel COncrete DEfect BRidge IMage dataset (CODEBRIM) for multi-target classification of five commonly appearing concrete defects. We have compared two meta-learning approaches to find suitable convolutional neural network architectures for this challenging multi-class multi-target task. We have observed that learned architectures have less overall parameters in addition to yielding better multi-target accuracy in comparison to popular CNN architectures from the literature evaluated in the context of our application. We have jointly submitted a paper from this project to a tier-1 vision conference of the likes of ECCV, CVPR, ICCV etc.) 
 
@@ -22,7 +22,7 @@ Continual Learning is perhaps one of the most important areas when it comes to d
 ## Pruning of Tracking and Detection models for Autonomous Vehicles at Optimization and Trustworthy ML Group, Michigan State University
 Mentors : [Prof. Sijia Liu](https://lsjxjtu.github.io/index.html)
 
-_September 2021 - Present_
+_March 2022 - July 2022_
 
 <!-- [//]: # (Primarily, I have been jointly working on curating the novel COncrete DEfect BRidge IMage dataset (CODEBRIM) for multi-target classification of five commonly appearing concrete defects. We have compared two meta-learning approaches to find suitable convolutional neural network architectures for this challenging multi-class multi-target task. We have observed that learned architectures have less overall parameters in addition to yielding better multi-target accuracy in comparison to popular CNN architectures from the literature evaluated in the context of our application. We have jointly submitted a paper from this project to a tier-1 vision conference of the likes of ECCV, CVPR, ICCV etc.) 
 
