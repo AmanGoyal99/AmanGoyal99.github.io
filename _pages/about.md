@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hey there ! Thanks for visiting my page. I have recently completed my undergraduate studies in Computer Science from NIT Kurukshetra. I am a Deep Learning and Computer Vision Researcher as well. My research interests revolve around Surveillance and Autonomous Vehicles. 
-I am currently working as an AI Research Engineer at Emerging Systems Lab, Intel where my work is focused towards neural architectural search, pruning and metaverse.
+Hey there! Thanks for visiting my page. I am an incoming graduate student at Carnegie Mellon University. Previously I have worked as a deep learning researcher in the domains of computer vision and deep learning.
+
+I had worked  as an AI Research Engineer at Emerging Systems Lab, Intel where my work was focused towards neural architectural search, pruning, and the metaverse.
+
 Previously I had worked as a research intern at [Optimization and Trustworthy ML Group](https://lsjxjtu.github.io/), Michigan State University where I was working on pruning of tracking and detection models for autonomous vehicles. 
+
 Apart from that I had also worked as a research intern at [XuLab](https://xulabs.github.io/), Carnegie Mellon University. My projects were based on the domains of 'Continual Learning' and 'Cryo-ET data analysis'. I had the pleasure of working under the guidance of [Prof. Min Xu](https://xulabs.github.io/min-xu/) and [Dr. Sima Behpour](https://scholar.google.com/citations?user=7bmIRwUAAAAJ&hl=en) respectively for the above projects mentioned. 
 
 Notable Affilations
