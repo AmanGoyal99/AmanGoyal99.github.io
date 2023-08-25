@@ -247,9 +247,9 @@ defaults:
     # product projects
   - scope:
       path: ""
-      type: product projects
+      type: productprojects
     values:
-      layout: product projects
+      layout: productprojects
       author_profile: true
       share: true
 
