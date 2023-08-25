@@ -4,11 +4,14 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Projects"
+  - title: "AI Research Projects"
     url: /projects/
     
   - title: "Publications"
     url: /publications/
+
+  - title: "Product Projects"
+    url: /product projects/    
 
   #- title: "Talks"
    # url: /talks/    
