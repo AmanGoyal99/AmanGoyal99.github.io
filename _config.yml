@@ -244,6 +244,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+    # product projects
+  - scope:
+      path: ""
+      type: product projects
+    values:
+      layout: product projects
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
