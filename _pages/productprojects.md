@@ -76,6 +76,9 @@ Product Teardown - Amazon
 ------
 - A product teardown highlighting key insights on personalization and search in Amazon. The deck can be found [here](https://drive.google.com/file/d/1V96fnBv6jv2rAjBbL3pW_EpM_sa8ovOS/view?usp=sharing).
 
+
+
+
 <p align="center">
 <img src="https://github.com/AmanGoyal99/AmanGoyal99.github.io/assets/51092051/f8d79ab4-29c5-4852-b3fb-cec46b006b50" width="93%" height = "63%">
 </p>
