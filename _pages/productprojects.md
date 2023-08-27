@@ -9,25 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Intrusion Detection in Low-Light scenarios
+Increasing ARPU of Society Management App - ApnaComplex
 ------
-- A video surveillance based solution for low light scenarios. 
-- The motivation behind this solution was to enhance the security of the borders using AI given the rise in terrorism.
+
 
 <p align="center">
-<img src = "/images/final_output.gif" width="93%">
+<img src = "![image](https://github.com/AmanGoyal99/AmanGoyal99.github.io/assets/51092051/03fac9c1-747a-4a3b-9ebf-d4f913107ebd)" width="93%">
 </p>
 
-- Low-light images were processed using stacking and averaging techniques. 
-- Detection of intruders and their firearms were done using *YOLOv4* based model.
-- *HRNet* was utilized for intruder pose estimation
-- *Viola-Jones* algorithm was used for intruder face recognition.
+- An end-to-end project executed from the perspective of a product manager to increase the ARPU of the company.
+- A step-by-step approach was taken which includes:
+- KPI mapping
+- User Personas
+- User research by interviewing actual users to highlight user needs
+- Deep dive into why it is a relevant problem and needs to be solved immediately using data
+- Highlighting and prioritizing relevant solutions
+- System Design Diagram of one of the solutions
+- Wireframes
+- Metrics
+- Second-order thinking, pitfalls, and mitigation steps. 
 
-The implementation can be found [here](https://github.com/AmanGoyal99/Low-light-intrusion-detection).
+The implementation can be found [here]([https://github.com/AmanGoyal99/Low-light-intrusion-detection](https://drive.google.com/drive/folders/1s7LDKAQE18cdmyzzHYr7I5LUORJRBsiC?usp=sharing)).
 
 Vehicle Parking Occupancy Detection
 ------
-- A parking occupancy status detection solution which utilizes classical computer vision concepts such as _Canny Edge Detection_ and deep learning based object detection model _YoloV3_', 
+- A parking occupancy status detection solution that utilizes classical computer vision concepts such as _Canny Edge Detection_ and deep learning based object detection model _YoloV3_', 
 
 <p align="center">
 <img src="/images/parking-occupancy-detection_resized.jpeg" width="93%">
