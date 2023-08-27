@@ -11,12 +11,12 @@ redirect_from:
 
 Increasing ARPU of Society Management App - ApnaComplex
 ------
+An end-to-end project executed from the perspective of a product manager to increase the ARPU of the company.
 
 <p align="center">
 <img src = "https://github.com/AmanGoyal99/AmanGoyal99.github.io/assets/51092051/8c2dfddf-c922-4636-a3de-a90ddf0883b9" width="93%" height="63%">
 </p>
 
-- An end-to-end project executed from the perspective of a product manager to increase the ARPU of the company.
 - A step-by-step approach was taken which includes:
 - KPI mapping
 - User Personas
@@ -28,7 +28,7 @@ Increasing ARPU of Society Management App - ApnaComplex
 - Metrics
 - Second-order thinking, pitfalls, and mitigation steps. 
 
-It's deck can be found [here]()
+Its deck can be found [here](https://drive.google.com/drive/folders/1s7LDKAQE18cdmyzzHYr7I5LUORJRBsiC?usp=sharing).
 
 Product Teardown - Uber
 ------
