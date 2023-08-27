@@ -12,9 +12,8 @@ redirect_from:
 Increasing ARPU of Society Management App - ApnaComplex
 ------
 
-
 <p align="center">
-<img src = "![image](https://github.com/AmanGoyal99/AmanGoyal99.github.io/assets/51092051/03fac9c1-747a-4a3b-9ebf-d4f913107ebd)" width="93%">
+<img src = "https://github.com/AmanGoyal99/AmanGoyal99.github.io/assets/51092051/8c2dfddf-c922-4636-a3de-a90ddf0883b9" width="93%" height="63%">
 </p>
 
 - An end-to-end project executed from the perspective of a product manager to increase the ARPU of the company.
@@ -29,68 +28,54 @@ Increasing ARPU of Society Management App - ApnaComplex
 - Metrics
 - Second-order thinking, pitfalls, and mitigation steps. 
 
-The implementation can be found [here]([https://github.com/AmanGoyal99/Low-light-intrusion-detection](https://drive.google.com/drive/folders/1s7LDKAQE18cdmyzzHYr7I5LUORJRBsiC?usp=sharing)).
+It's deck can be found [here]()
 
-Vehicle Parking Occupancy Detection
+Product Teardown - Uber
 ------
-- A parking occupancy status detection solution that utilizes classical computer vision concepts such as _Canny Edge Detection_ and deep learning based object detection model _YoloV3_', 
+- A product teardown highlighting key insights on new user onboarding in Uber. The deck can be found [here](https://drive.google.com/file/d/1HUAWCiNfD3CBvQa8F1tFWrWvR06grrMk/view?usp=sharing).
+
 
 <p align="center">
-<img src="/images/parking-occupancy-detection_resized.jpeg" width="93%">
+<img src="https://github.com/AmanGoyal99/AmanGoyal99.github.io/assets/51092051/e210b0df-8cf1-48c6-994e-3a7f46f94617" width="93%" height = 63%>
 </p>
 
-The following procedure was followed to derive the solution:
-
-- Suitable images were found using Open IP CCTV camera websites. 
-- Parking zones were detected using _Canny Edge Detection_ and _Hough Line Transform_.
-- Detection of vehicles took place using _YoloV3_ model.
-- Vehicles were represented as point objects on the 2D map using _homography estimation_.
-- Finally the status of the parking zone was detected using _Point Polygon Test_.
-
-The detailed procedure can be found in this [blog](https://nayan.co/blog/AI/Vehicle-Parking-Occupancy-Detection/).
-
-Deep Learning based COVID-19 classifier
+Product Teardown - Bumble
 ------
 
-- COVID-19 is one of the most destructive pandemic humankind has ever faced. 
-- It has not only shaken the economy across the world but also made it an extremely difficult task for effective medical help to reach across remote regions. 
-- An extremely accurate and lightweight AI model could be a solution for this as it could aid the doctors and medical team especially in remote areas to detect COVID-19.
-
-Hence keeping this in mind, this project aims to create a deep learning based COVID-19 CT-Scan images classifier.
-
+- A product teardown highlighting key insights on in-app notifications in Bumble. The deck can be found [here](https://drive.google.com/file/d/1RPMh12bsaFdn4h1MvIDhtaH6dZkRBWlw/view?usp=sharing).
+    
 <p align="center">
-<img src="/images/covid-19-classifier.png" width="93%" height = "63%">
+<img src="https://github.com/AmanGoyal99/AmanGoyal99.github.io/assets/51092051/1ade9c1d-5065-4bad-aa87-8b2e351b9d2c" width="93%" height = "63%">
 </p>
 
-- In the project, experiments have been done both with as well as without transfer learning.
-- With just 50 training images, _MobileNet_ based model was able to provide an accuracy of 99%.
-
-The implementation can be found [here](https://github.com/AmanGoyal99/COVID-19-Classifier).
-
-Image Denoising with Autoencoders
+Product Teardown - MapMyIndia
 ------
-This project aims to perform denoising of images from [Olivetti Faces Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_olivetti_faces.html) by using _Convolutional Autoencoders_.
+- A product teardown highlighting key insights on in-app reviews in MapMyIndia. The deck can be found [here](https://drive.google.com/file/d/1IskOHkc2uFlcHaNVg4X4hMGpt7n8xn3l/view?usp=sharing).
 
 <p align="center">
-<img src="/images/Autoencoders.png" width="93%">
+<img src="https://github.com/AmanGoyal99/AmanGoyal99.github.io/assets/51092051/fd75a34d-8969-49a2-8c54-24798a4971aa" width="93%" height="63%">
 </p>
 
-- The images were provided random noise using basic python code.
-- The best results were obtained when the architecture was trained using 1000 epochs.
-- The above image is an example of evaluation done on testing set.
-
-The implementation can be found [here](https://github.com/AmanGoyal99/Denoising-Images-with-Autoencoders).
-
-QuickDraw - Image Recognition
+Product Teardown - Threads
 ------
-This project was inspired by Google's [QuickDraw](https://quickdraw.withgoogle.com/) and aims to recognize images across 15 categories
+- A product teardown highlighting key insights on user referral program in Threads. The deck can be found [here](https://drive.google.com/file/d/1eXuUgSaqiRDdSHFcdv0Eka_xsh_fZdhC/view?usp=sharing).
 
 <p align="center">
-<img src="/images/quickdraw_resized.jpeg" width="93%">
+<img src="https://github.com/AmanGoyal99/AmanGoyal99.github.io/assets/51092051/9f58bccb-f11d-46d1-8c15-d903308bb4b5" width="93%" height = "63%">
 </p>
 
-- It is a _CNN_ based image classifier which classifies images across 15 categories.
+Product Teardown - Bard
+------
+- A product teardown highlighting key insights on various conversational capabilities in Bard. The deck can be found [here](https://drive.google.com/file/d/1Yx8wxbUCu0WfUd7C232E3bkxKrK5xu04/view?usp=sharing).
 
-The implementation can be found [here](https://github.com/AmanGoyal99/QuickDraw).
+<p align="center">
+<img src="https://github.com/AmanGoyal99/AmanGoyal99.github.io/assets/51092051/ff865f05-52a7-46d6-b0c4-f52139f374bb" width="93%" height = "63%">
+</p>
 
+Product Teardown - Amazon
+------
+- A product teardown highlighting key insights on personalization and search in Amazon. The deck can be found [here](https://drive.google.com/file/d/1V96fnBv6jv2rAjBbL3pW_EpM_sa8ovOS/view?usp=sharing).
 
+<p align="center">
+<img src="https://github.com/AmanGoyal99/AmanGoyal99.github.io/assets/51092051/f8d79ab4-29c5-4852-b3fb-cec46b006b50" width="93%" height = "63%">
+</p>
