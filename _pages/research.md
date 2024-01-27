@@ -7,11 +7,9 @@ redirect_from:
   - /tags/
 ---
 ## Optimization and Pruning at Emerging Systems Lab, Intel Labs
-Mentors : [Nilesh Jain (Principal Engineer)](https://www.intel.com/content/www/us/en/research/researchers/nilesh-jain.html), [Dr. Pablo Munoz]([
-](https://www.intel.in/content/www/in/en/research/researchers/j--pablo-munoz.html)), [Vui Seng Chua](https://www.linkedin.com/in/vuiseng9)
+Mentors : [Nilesh Jain (Principal Engineer)](https://www.intel.com/content/www/us/en/research/researchers/nilesh-jain.html), [Dr. Pablo Munoz](https://www.intel.in/content/www/in/en/research/researchers/j--pablo-munoz.html), [Vui Seng Chua](https://www.linkedin.com/in/vuiseng9)
 
-_August 2022 - Present_[
-](https://www.intel.in/content/www/in/en/research/researchers/j--pablo-munoz.html)
+_August 2022 - May 2023_
 
 Having worked majorly in domains of surveillance and computer vision previously, moving to optimization and pruning based projects was challenging but is proving a good steep learning curve. I realized that this knowledge and experience would help me a lot by imparting me with a lot of knowledge and corporate research experience in domain of systems which I could utilize to optimize my computer vision based models in the future. Currently I am working with Pablo on BoostrapNAS and heading my pruning based research project which is being advised by Nilesh, Vui Seng and Pablo. 
 
