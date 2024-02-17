@@ -36,7 +36,7 @@ Product Teardown - Uber
 
 
 <p align="center">
-<img src="https://github.com/AmanGoyal99/AmanGoyal99.github.io/assets/51092051/e210b0df-8cf1-48c6-994e-3a7f46f94617" width="93%" height = 63%>
+<img src="https://github.com/AmanGoyal99/AmanGoyal99.github.io/assets/51092051/ac059d87-9047-4803-986d-f29cb22b1b30" width="93%" height = 63%>
 </p>
 
 Product Teardown - Bumble
