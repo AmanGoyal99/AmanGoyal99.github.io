@@ -10,7 +10,7 @@ redirect_from:
 
 Hey there! Thanks for visiting my page. I am a graduate student at Carnegie Mellon University. Previously I have worked as a product manager and deep learning researcher in the domains of computer vision and deep learning.
 
-I had worked  as a Technical Product Manager at Emerging Systems Lab, Intel where my work was focused building models towards neural architectural search, pruning, and the metaverse.
+I had worked  as an AI Research and Product Manager at Emerging Systems Lab, Intel where my work was focused building models towards neural architectural search, pruning, and the metaverse.
 
 Prior to that,  I had worked as a research intern at [Optimization and Trustworthy ML Group](https://lsjxjtu.github.io/), Michigan State University where I was working on pruning of tracking and detection models for autonomous vehicles. 
 
