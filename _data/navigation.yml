@@ -27,6 +27,9 @@ main:
     
   - title: "CV"
     url: https://amangoyal99.github.io/files/Resume_Aman-Goyal.pdf
+
+  - title: "Resume Reviews"
+    url: /resumereviews/
     
   #- title: "Guide"
    # url: /markdown/
