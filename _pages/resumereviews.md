@@ -17,9 +17,10 @@ Qualifications:
 - Current AI PM at The Trade Desk
 - Prev. AI Research Engineer at Intel
 - Have an experience of 3 years in AI/ML space.
+- [Linkedin Profile](https://www.linkedin.com/in/amangoyal99/)
 
 <p align="center">
-<img src = "/images/final_output.gif" width="93%">
+<img src = "/images/me_new.jpg" height = "50%" width="93%">
 </p>
 
-- Please submit your resume and contact details using this link
+- Please submit your resume and contact details using this [link](https://forms.gle/76UhmejcBvqoRCaj6)
