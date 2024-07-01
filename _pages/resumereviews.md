@@ -19,8 +19,8 @@ Qualifications:
 - Have an experience of 3 years in AI/ML space.
 - [Linkedin Profile](https://www.linkedin.com/in/amangoyal99/)
 
-<p align="center">
-<img src = "/images/me_new.jpg" height = "50%" width="93%">
+<p align="left">
+<img width="200" src= "/images/me_new.jpg">
 </p>
 
 - Please submit your resume and contact details using this [link](https://forms.gle/76UhmejcBvqoRCaj6)
